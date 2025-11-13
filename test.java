@@ -1,5 +1,4 @@
-// Binh Do INFO 135-PLA, Final project
-// Thank you so much for helping me out on this.
+
 
 public class test{
      static int[][] maze = new int[][] { // maze built
