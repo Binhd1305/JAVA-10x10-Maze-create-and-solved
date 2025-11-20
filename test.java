@@ -89,3 +89,7 @@ public class test{
         return found; //if couldn't find solution return false
     }
     }
+
+// time complexity O(n^4) due to print statement
+// BFS search suggest for future
+
