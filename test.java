@@ -91,5 +91,5 @@ public class test{
     }
 
 // time complexity O(n^4) due to print statement
-// BFS search suggest for future
+// BFS search suggest for future O(n^2)
 
